@@ -1,0 +1,14 @@
+{
+  "img_size": [
+    48,
+    48
+  ],
+  "color_mode": "grayscale",
+  "last_conv_layer": "last_conv",
+  "architecture": "CNN 4 blok (Conv-BN-ReLU)",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "batch_size": 64,
+  "epochs_run": 40,
+  "best_epoch": 19
+}
